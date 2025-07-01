@@ -1,19 +1,19 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5ec2&height=200&section=header&text=Hi%20there,%20I'm%20Riyaz%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%20there,%20I'm%20Riyaz%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Salesforce+Developer+%7C+Apex+Wizard+%7C+LWC+Craftsman;Exploring+Agentforce+%7C+Loves+Clean+UI%2FUX;Building+the+Future+of+CRM+%7C+One+Component+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Salesforce+Developer+%7C+Apex+Wizard+%7C+LWC+Craftsman;Exploring+Agentforce+%7C+Loves+Clean+UI%2FUX;Building+the+Future+of+CRM+%7C+One+Component+at+a+Time&color=00d4ff&background=00000000" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RazzDino&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RazzDino&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=RazzDino&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=RazzDino&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Contribution Graph" />
 </div>
 
 ---
@@ -54,23 +54,23 @@ const riyaz = {
 <div align="center">
 
 ### 🏢 Salesforce Ecosystem
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/-Apex-14336F?style=for-the-badge&logo=apachespark&logoColor=white)
-![LWC](https://img.shields.io/badge/-LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white)
-![SOQL](https://img.shields.io/badge/-SOQL-00A1E0?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-00A1E0?style=for-the-badge&logo=flow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00d4ff?style=for-the-badge&logo=salesforce&logoColor=000000)
+![Apex](https://img.shields.io/badge/-Apex-1a1a2e?style=for-the-badge&logo=apachespark&logoColor=00d4ff)
+![LWC](https://img.shields.io/badge/-LWC-16213e?style=for-the-badge&logo=lightning&logoColor=00d4ff)
+![SOQL](https://img.shields.io/badge/-SOQL-0f3460?style=for-the-badge&logo=sqlite&logoColor=00d4ff)
+![Flow Builder](https://img.shields.io/badge/-Flow%20Builder-533483?style=for-the-badge&logo=flow&logoColor=00d4ff)
 
 ### 💻 Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-00d4ff?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=00d4ff)
+![CSS3](https://img.shields.io/badge/-CSS3-16213e?style=for-the-badge&logo=css3&logoColor=00d4ff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0f3460?style=for-the-badge&logo=bootstrap&logoColor=00d4ff)
 
 ### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Salesforce CLI](https://img.shields.io/badge/-Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-533483?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/-Git-1a1a2e?style=for-the-badge&logo=git&logoColor=00d4ff)
+![GitHub](https://img.shields.io/badge/-GitHub-16213e?style=for-the-badge&logo=github&logoColor=00d4ff)
+![Salesforce CLI](https://img.shields.io/badge/-Salesforce%20CLI-0f3460?style=for-the-badge&logo=salesforce&logoColor=00d4ff)
 
 </div>
 
@@ -80,18 +80,18 @@ const riyaz = {
 
 <div align="center">
   
-  ![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazzDino&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&animate=true)
+  ![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazzDino&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&animate=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazzDino&layout=compact&theme=tokyonight&langs_count=8&animate=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazzDino&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff&langs_count=8&animate=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazzDino&theme=tokyonight&hide_border=true&animation=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RazzDino&theme=dark&background=0a0a0a&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff&hide_border=true&animation=true)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=RazzDino&color=0e5ec2&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=RazzDino&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
 
 <div align="center">
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RazzDino&theme=tokyo-night&hide_border=true&area=true&area_color=00A1E0&line=00A1E0&point=ffffff&color_scheme=blue&hide_title=false)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RazzDino&theme=dark&bg_color=0a0a0a&color=00d4ff&line=00d4ff&point=00d4ff&area=true&area_color=00d4ff&hide_border=true&hide_title=false)
 </div>
 
 ---
@@ -112,9 +112,9 @@ const riyaz = {
 <div align="center">
 
 ### 🎖️ Salesforce Certifications
-![Salesforce Platform Developer I](https://img.shields.io/badge/-Platform%20Developer%20I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Platform Developer II](https://img.shields.io/badge/-Platform%20Developer%20II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Administrator](https://img.shields.io/badge/-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Platform Developer I](https://img.shields.io/badge/-Platform%20Developer%20I-00d4ff?style=for-the-badge&logo=salesforce&logoColor=000000)
+![Salesforce Platform Developer II](https://img.shields.io/badge/-Platform%20Developer%20II-1a1a2e?style=for-the-badge&logo=salesforce&logoColor=00d4ff)
+![Salesforce Administrator](https://img.shields.io/badge/-Administrator-16213e?style=for-the-badge&logo=salesforce&logoColor=00d4ff)
 
 ### 💪 Core Competencies
 - **⚡ Apex Development** - Triggers, Classes, Controllers, Batch Jobs
@@ -140,12 +140,12 @@ graph LR
     D --> E[Apex Phantom Developer]
     E --> F[UI/UX Expert]
     
-    style A fill:#00A1E0
-    style B fill:#14336F
-    style C fill:#00A1E0
-    style D fill:#FF6B35
-    style E fill:#8B5CF6
-    style F fill:#10B981
+    style A fill:#00A1E0,color:#fff
+    style B fill:#14336F,color:#fff
+    style C fill:#00A1E0,color:#fff
+    style D fill:#FF6B35,color:#fff
+    style E fill:#8B5CF6,color:#fff
+    style F fill:#10B981,color:#fff
 ```
 
 </div>
@@ -156,15 +156,18 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-riyaz-948350b1)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazzDino)
-[![Salesforce Trailhead](https://img.shields.io/badge/-Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/shaik-riyaz-948350b1)
+[![GitHub](https://img.shields.io/badge/-GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/RazzDino)
+[![Salesforce Trailhead](https://img.shields.io/badge/-Trailhead-16213e?style=for-the-badge&logo=salesforce&logoColor=00d4ff)](https://trailhead.salesforce.com/)
 
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Let's+build+something+amazing+together!;Ready+to+collaborate+on+Salesforce+projects" alt="Connect Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Let's+build+something+amazing+together!;Ready+to+collaborate+on+Salesforce+projects&color=00d4ff&background=00000000" alt="Connect Message" /><br><br><br>
 </div>
+
 
 ---
 
@@ -190,5 +193,5 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e5ec2&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0:0a0a0a,50:1a1a2e,100:16213e&height=100&section=footer" />
 </div>
